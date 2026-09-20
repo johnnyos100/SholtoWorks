@@ -1,0 +1,11 @@
+{
+  "name": "SholtoWorks Time Token",
+  "website": "https://sholtoworks.com",
+  "description": "SholtoWorks Time Token (SWTT) is a time-denominated utility token used within the SholtoWorks ecosystem for redeeming time, services, and digital interactions.",
+  "explorer": "https://basescan.org/token/0x9A6873C2383a95F2717325829cCFfD94e6dF0386",
+  "type": "ERC20",
+  "symbol": "SWTT",
+  "decimals": 2,
+  "status": "active",
+  "id": "0x9A6873C2383a95F2717325829cCFfD94e6dF0386"
+}
